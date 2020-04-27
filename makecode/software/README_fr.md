@@ -2,6 +2,7 @@
 
 ## Thermomètre frontal version finale
 
+* microbit-mlx90614-nocal_v2_fr.hex -- (Version française)
 * microbit-mlx90614-nocal_v2_fr.hex -- (Version anglaise)
 * microbit-mlx90614-nocal_v2.hex -- (Version chinoise)
 
